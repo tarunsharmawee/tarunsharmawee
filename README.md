@@ -1,5 +1,8 @@
 # 💫 About Me:
-I'm currently working on my development skills<br>web3 enthusiast <br>learning DSA<br>i'm 18 year old
+hey, My name's tarun sharma.
+i'm currently polishing my full stack skills
+learning DSA
+and looking forword to dive into web3
 
 
 ## 🌐 Socials:
@@ -12,7 +15,7 @@ I'm currently working on my development skills<br>web3 enthusiast <br>learning D
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tarunsharmawee&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tarunsharmawee&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍ Gyan
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ### 🔝 Top Contributed Repo

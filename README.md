@@ -1,8 +1,8 @@
 # 💫 About Me:
-hey, My name's tarun sharma,
-i'm currently polishing my full stack skills,
-learning DSA,
-and looking forword to dive into web3.
+hey, My name's tarun sharma<br>
+i'm currently polishing my full stack skills<br>
+learning DSA<br>
+and looking forword to dive into web3<br>
 
 
 ## 🌐 Socials:
